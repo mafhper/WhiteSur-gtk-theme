@@ -1,18 +1,8 @@
 <h1 align="center"> WhiteSur GTK Theme </h1>
-<p align="center"> <img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/macbook.png"/> </p>
 
 <br>
 <p align="center"> <b> A macOS like theme for Linux GTK Desktops </b> </p>
 <br>
-
-## Donate
-
-If you like my project, you can buy me a coffee, many thanks ❤️ !
-
-<span class="paypal"><a href="https://www.paypal.me/vinceliuice" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
-
-# Installation is easy!
-<details> <summary> Required dependencies <b>(click to open)</b> </summary>
 
 ### "Install from source" deps
 - sassc
@@ -163,7 +153,7 @@ Run this command to install `WhiteSur` into `gtk-4.0 configuration folder` ($HOM
 ```
 
 ## <p align="center"> <b> Change theme color and accent </b> </p>
-<p align="center"> <img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/colors-themes.png"/> </p>
+<p align="center"></p>
 
 #### - Install theme accent
 Parameter: `--theme` `-t` (repeatable)
@@ -177,7 +167,7 @@ Example:
 ```
 
 ## <p align="center"> <b> Change Nautilus style </b> </p>
-<p align="center"> <img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/nautilus.png"/> </p>
+<p align="center">  </p>
 
 Parameter: `--nautilus` `-N`
 
@@ -280,7 +270,6 @@ OPTIONS:
 ### <p align="center"> <b> Install and edit Firefox theme </b> </p>
 
 <p align="center"> <a href="src/other/firefox">
-<img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/firefox.svg"/>
 </a> </p>
 
 #### - [Install Firefox theme](src/other/firefox)
@@ -302,7 +291,7 @@ Example:
 ##
 
 ### <p align="center"> <b> Install and customize GDM theme </b> </p>
-<p align="center"> <img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/gdm.png"/> </p>
+<p align="center"> </p>
 
 #### - Install GDM theme
 Parameter: `--gdm` `-g` (requires to be run as root)
@@ -365,23 +354,12 @@ Example: `./tweaks.sh -F`
 
 ## <p align="center"> <b> Other recommended stuff </b> </p>
 ### <p align="center"> <b> WhiteSur Icon Theme </b> </p>
-<p align="center"> <a href="https://github.com/vinceliuice/WhiteSur-icon-theme">
-  <img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/icon-theme.png"/>
-</a> </p>
-<br>
-<p align="center"> <a href="https://github.com/vinceliuice/WhiteSur-icon-theme">
-  <img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/download-button.svg"/>
-</a> </p>
-<br>
+
 
 ### <p align="center"> <b> WhiteSur Wallpapers </b> </p>
-<p align="center"> <a href="https://github.com/vinceliuice/WhiteSur-wallpapers">
-  <img class="image" src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/wallpaper.gif"/>
-</a> </p>
+
 <br>
-<p align="center"> <a href="https://github.com/vinceliuice/WhiteSur-wallpapers">
-  <img src="https://github.com/vinceliuice/WhiteSur-gtk-theme/blob/pictures/pictures/download-button.svg"/>
-</a> </p>
+
 <br>
 
 ## Technical details and getting involved
